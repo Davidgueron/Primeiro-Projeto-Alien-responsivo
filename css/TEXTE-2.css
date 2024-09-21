@@ -77,6 +77,28 @@ p{
         font-weight: 900;  
         font-size: 50;
         color: #2f6114 ;
-    
+    }
 
-        }
+@media  screen and (max-width:) {
+    .conteiner-left{
+        width:100%;
+        height: 50%;
+        padding: 0;
+        margin: 0;
+    }
+
+.conteiner-right{
+        display: block;
+        height: auto;
+         width: 100%;  
+         position: static;
+         
+}
+}
+
+
+
+
+
+
+
